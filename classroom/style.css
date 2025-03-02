@@ -1,12 +1,23 @@
 h1{
-    text-align: center;
+    text-align: none;
     font-size: 50px;
     color: purple;
 }
 button{
     text-align: center;
     text-decoration: none;
-    font-weight: 600;
     font-size: 25px;
-    color: purple;
+    font-weight: 600;
+    color: none;
+    background-color: rgb(167, 154, 182);
+    height: 65px;
+    width: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    text-align: center;
 }
