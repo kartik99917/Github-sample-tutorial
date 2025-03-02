@@ -1,17 +1,16 @@
-h1{
-    color: green;
-    background-color: #D3C4E3;
-}
-h2{
+/* Universal selector - *{} */*{
+    text-align: center;
     color: #DBB1BC;
+    background-color: azure;
 }
-h3{
+
+#student1{
+    color: green;
+}
+#student2{
     color: #DBB1BC;
 }
 button{
     color: rgb(100, 100, 100);
     background-color: #89DAFF;
-}
-body{
-    background-color: #8F95D3;
 }

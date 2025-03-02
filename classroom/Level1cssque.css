@@ -1,0 +1,15 @@
+#myid{
+    background-color: #ff0000;
+    color: #ffffff;
+    text-align: center;
+}
+.heading{
+    color: #ff0000;
+}
+/* 
+ h1,h2,h3{
+    color: #ff0000;
+ } */
+ button{
+    background-color: green;
+ }
