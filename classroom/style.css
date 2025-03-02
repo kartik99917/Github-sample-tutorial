@@ -12,5 +12,9 @@
 }
 button{
     color: rgb(100, 100, 100);
-    background-color: #89DAFF;
+    background-color: #89DAFF; 
+}
+a{
+    color: #0a5f4b;
+    text-decoration: none;
 }
